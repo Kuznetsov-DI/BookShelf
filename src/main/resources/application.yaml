@@ -1,0 +1,9 @@
+server:
+  port: 8090
+
+spring:
+  datasource:
+    driver-class-name:
+    url: jdbc:postgresql://localhost:5432/BookShelf
+    username: admin
+    password: admin
